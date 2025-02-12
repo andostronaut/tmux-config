@@ -9,6 +9,8 @@ This repository contains personalized configurations for Tmux with some themes.
 
 ## Build
 
+### Manual
+
 Give some permission to build.sh script
 
 ```sh
@@ -21,7 +23,15 @@ Build the configuration
     - with flag `-o` to specify the output file
 
 ```sh
-./build.sh -t tokyonight
+./build.sh -t tokyonight -o root
+```
+
+### Automatic
+
+Run the following command to build the configuration
+
+```sh
+make build
 ```
 
 ## Source
