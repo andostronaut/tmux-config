@@ -1,13 +1,39 @@
 # TMUX Config
 
-This repository contains personalized configurations for tmux.
+This repository contains personalized configurations for Tmux with some themes.
 
-## Setup
+## Themes
+
+- [Tokyo Night](themes/tokyonight.conf)
+- [Github Light](themes/github-light.conf)
+
+## Build
+
+Give some permission to build.sh script
+
+```sh
+chmod +x build.sh
+```
+
+Build the configuration
+
+    - with flag `-t` to specify the theme
+    - with flag `-o` to specify the output file
+
+```sh
+./build.sh -t tokyonight
+```
+
+## Source
 
 ```sh
 tmux source ~/.tmux.conf
 ```
 
+```sh
+tmux source-file ~/.tmux.conf
+```
+
 ## License
 
-[MIT](LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
