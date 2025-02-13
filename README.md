@@ -12,9 +12,13 @@ List of available themes:
 
 <details>
   <summary>See all available themes</summary>
-    - [Tokyo Night](themes/tokyonight.conf)
-    - [Github Light](themes/github-light.conf)
-    - [Github Dark](themes/github-dark.conf)
+
+<!--Themes -->
+
+- [Tokyo Night](themes/tokyonight.conf)
+- [Github Light](themes/github-light.conf)
+- [Github Dark](themes/github-dark.conf)
+
 </details>
 
 ## Build
