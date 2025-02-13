@@ -8,11 +8,14 @@
 
 tmux configuration with predefined themes 💅
 
-## Themes
+List of available themes:
 
-- [Tokyo Night](themes/tokyonight.conf)
-- [Github Light](themes/github-light.conf)
-- [Github Dark](themes/github-dark.conf)
+<details>
+  <summary>See all available themes</summary>
+    - [Tokyo Night](themes/tokyonight.conf)
+    - [Github Light](themes/github-light.conf)
+    - [Github Dark](themes/github-dark.conf)
+</details>
 
 ## Build
 
