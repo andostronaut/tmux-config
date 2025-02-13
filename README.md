@@ -18,6 +18,7 @@ List of available themes:
 - [Tokyo Night](themes/tokyonight.conf)
 - [Github Light](themes/github-light.conf)
 - [Github Dark](themes/github-dark.conf)
+- [Kanagawa](themes/kanagawa.conf)
 
 </details>
 
