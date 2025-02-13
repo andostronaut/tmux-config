@@ -1,11 +1,18 @@
-# TMUX Config
+<p align="center">
+  <img
+    src="tmux-config.png"
+    alt="tmux-config"
+    style="width:100%;"
+  />
+</p>
 
-This repository contains personalized configurations for Tmux with some themes.
+tmux configuration with predefined themes 💅
 
 ## Themes
 
 - [Tokyo Night](themes/tokyonight.conf)
 - [Github Light](themes/github-light.conf)
+- [Github Dark](themes/github-dark.conf)
 
 ## Build
 
