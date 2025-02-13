@@ -16,9 +16,9 @@ tmux configuration with predefined themes 💅
 
 ## Build
 
-### Manual
+### Manual (build.sh)
 
-Give some permission to build.sh script
+Give some permission to build.sh script.
 
 ```sh
 chmod +x build.sh
@@ -26,19 +26,22 @@ chmod +x build.sh
 
 Build the configuration
 
-    - with flag `-t` to specify the theme
-    - with flag `-o` to specify the output file
+- with flag `-t` to specify the theme
+- with flag `-o` to specify the output file
 
 ```sh
 ./build.sh -t tokyonight -o root
 ```
 
-### Automatic
+### Makefile (make)
 
-Run the following command to build the configuration
+Run the following command to build the configuration.
+
+- with variable `THEME` to specify the theme
+- with variable `OUTPUT` to specify the output file
 
 ```sh
-make build
+make build THEME=tokyonight OUTPUT=root
 ```
 
 ## Source
