@@ -19,6 +19,7 @@ List of available themes:
 - [Github Light](themes/github-light.conf)
 - [Github Dark](themes/github-dark.conf)
 - [Kanagawa](themes/kanagawa.conf)
+- [Oxocarbon](themes/oxocarbon.conf)
 
 </details>
 
