@@ -23,6 +23,7 @@ List of available themes:
 - [Ayu Dark](themes/ayu-dark.conf)
 - [Ayu Light](themes/ayu-light.conf)
 
+
 </details>
 
 ## Build
