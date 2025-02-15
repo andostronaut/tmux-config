@@ -20,6 +20,9 @@ List of available themes:
 - [Github Dark](themes/github-dark.conf)
 - [Kanagawa](themes/kanagawa.conf)
 - [Oxocarbon](themes/oxocarbon.conf)
+- [Ayu Dark](themes/ayu-dark.conf)
+- [Ayu Light](themes/ayu-light.conf)
+
 
 </details>
 
