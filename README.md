@@ -23,8 +23,15 @@ List of available themes:
 - [Ayu Dark](themes/ayu-dark.conf)
 - [Ayu Light](themes/ayu-light.conf)
 
-
 </details>
+
+<p align="center">
+  <img
+    src="demo.png"
+    alt="demo"
+    style="width:100%;"
+  />
+</p>
 
 ## Build
 
